@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jbelan
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning Computer Systems, ARM assembly language, Computer Architecture, and Linear Algebra
+- 🌱 I’m currently learning SQL, Cryptogaphy, and Reverse Software Engineering
 - 📫 How to reach me :
 - L:linkedin.com/in/jia-belanger
 - E: jiabelanger1@gmail.com
